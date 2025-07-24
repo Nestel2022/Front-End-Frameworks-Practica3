@@ -1,4 +1,4 @@
-# Front-End-Frameworks-Practica-2
+# Front-End-Frameworks-Practica-3
 
 El objetivo de la segunda práctica (primera práctica de código) es que el alumno cree un nuevo
 proyecto en React y aplique los conceptos más básicos de componentes: estado y propiedades.
@@ -16,7 +16,7 @@ Sigue estos pasos para configurar y ejecutar el proyecto localmente.
 
 1. **Clonar el repositorio**
    ```bash
-   git clone https://github.com/Nestel2022/Front-End-Frameworks-Practica2.git
+   git clone https://github.com/Nestel2022/Front-End-Frameworks-Practica3.git
 
 2. **Inicializar el proyecto**
  ```bash  
